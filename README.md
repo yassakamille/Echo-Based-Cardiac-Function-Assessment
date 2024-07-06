@@ -32,7 +32,7 @@ EchoNet-Dynamic Dataset
  <a href = "https://github.com/AbanoubGamalll/Echo-Based-Cardiac-Function-Assessment/blob/main/Model/Main.py">Main</a>
 and choose one model to train each time.
 
-1) HyperModel:
+1) ResNet-Bert Transformer HyperModel:
 - Detecting (ES-ED) Frames <br><br>
 ![alt results](https://github.com/AbanoubGamalll/Echo-Based-Cardiac-Function-Assessment/blob/main/Media/HeartCycle.png)
 
