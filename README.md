@@ -78,7 +78,7 @@ file using Flutter.
 - Presented and published our scientific paper at the 8th International Undergraduate Research Conference (IUGRC) at the Military Technical College. Also, We participated in the Military Technical College Science Exhibition, presenting both the paper and the project in the presence of the Minister of Defense. Additionally, We Were Invited to present and test the project at the Military Technical Hospital. <br><br>
 ![alt results](Media/MilitaryTechnicalCollegeScienceExhibition.jpg)
 ![alt results](Media/MilitaryTechnicalCollegeCompetitionForGP.jpg)
-
+--------------
 [![Architecture diagram of yassakamille/echo-based-cardiac-function-assessment](https://gitdiagram.com/yassakamille/echo-based-cardiac-function-assessment/diagram.png)](https://gitdiagram.com/yassakamille/echo-based-cardiac-function-assessment?utm_source=readme&utm_medium=picture)
 
 ## Echo-Based Cardiac Function Assessment Workflow
